@@ -1,8 +1,7 @@
 # Hi there, I'm Aditya Patel 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer+%7C+DSA+Enthusiast;Solving+Striver+SDE+Sheet+Daily;Focused+on+Cracking+SDE+Role" />
-</p>
+  
 
 ### 🚀 About Me
 - 🔭 Working on: **DSA-Striver-Sheet in C++**
@@ -18,12 +17,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityahere7880-sketch&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityahere7880-sketch&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityahere7880-sketch&show_icons=true&theme=tokyonight" />
 </p>
-
-### 📈 Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityahere7880-sketch&theme=tokyo-night)
 
 ### 🤝 Connect
 <a href="mailto:adityahere7880@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/adityahere7880-sketch"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<p align="center">✨ Keep Coding, Keep Growing! ✨</p>
