@@ -1,32 +1,57 @@
-# Student Management System (C++)
 
-A robust, console-based Student Management System built using modern C++ and Object-Oriented Programming (OOP) principles. It provides an intuitive interface to handle student records efficiently with complete input validation.
+# Hi there, I'm Aditya Patel 👋
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adityahere7880-sketch&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-## 📌 Features
-
-- *Add Student Records:* Enter and store student roll numbers, names, courses, semesters, and marks.
-- *Display Records:* View formatted details of all registered students.
-- *Search Functionality:* Find individual student profiles quickly by roll number.
-- *Update & Delete:* Modify existing records or remove outdated entries seamlessly.
-- *Input Validation:* Error-handling mechanism to prevent program crashes on invalid input.
+Passionate Computer Applications student and aspiring *Software Development Engineer (SDE)* with a strong foundation in *C++* and a focus on *Data Structures & Algorithms (DSA)*.
 
 ---
 
-## 🛠️ Tech Stack & Concepts
+## 🚀 About Me
 
-- *Language:* C++
-- *Paradigms:* Object-Oriented Programming (Classes & Objects)
-- *Libraries:* <iostream>, <fstream>, <string>, <limits>
+- 🎓 *Education:* BCA at Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi
+- 💻 *Core Focus:* C++, Data Structures & Algorithms, Problem Solving
+- 🎯 *Daily Routine:* Practicing DSA problems on LeetCode
+- 🎯 *Target:* Securing an SDE Internship / Role
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- *Languages:* C, C++
+- *Concepts:* Object-Oriented Programming (OOP), Data Structures, Algorithms
 - *Tools:* VS Code, Git, GitHub
 
 ---
 
-## 🚀 Getting Started
+## 📌 Featured Projects
 
-### Prerequisites
+- 📁 **[Student Management System](https://github.com/adityahere7880-sketch/adityahere7880-sketch)**  
+  A robust, console-based CRUD application built with C++ utilizing OOP principles, input validation, and file handling.
 
-Make sure GCC / MinGW is installed on your system:
-```bash
-g++ --version
+---
+
+## 📊 GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityahere7880-sketch&show_icons=true&theme=radical" alt="Aditya's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahere7880-sketch&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aditya-patel-343a63365" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adityahere7880@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/adityahere7880-sketch">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
